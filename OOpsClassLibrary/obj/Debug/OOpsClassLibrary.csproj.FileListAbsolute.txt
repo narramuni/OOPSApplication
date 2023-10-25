@@ -1,0 +1,6 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\bin\Debug\OOpsClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\bin\Debug\OOpsClassLibrary.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\obj\Debug\OOpsClassLibrary.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\obj\Debug\OOpsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\obj\Debug\OOpsClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\OOPSApplication\OOpsClassLibrary\obj\Debug\OOpsClassLibrary.pdb

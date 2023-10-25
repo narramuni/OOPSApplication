@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSApplication", "OOPSApplication\OOPSApplication.csproj", "{DCE863CC-2F90-4C17-BEBC-4E849C1AC9C1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{582C73BA-3313-454A-A65D-4ECED638B41E} = {582C73BA-3313-454A-A65D-4ECED638B41E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOpsClassLibrary", "OOpsClassLibrary\OOpsClassLibrary.csproj", "{582C73BA-3313-454A-A65D-4ECED638B41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE863CC-2F90-4C17-BEBC-4E849C1AC9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE863CC-2F90-4C17-BEBC-4E849C1AC9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE863CC-2F90-4C17-BEBC-4E849C1AC9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE863CC-2F90-4C17-BEBC-4E849C1AC9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582C73BA-3313-454A-A65D-4ECED638B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582C73BA-3313-454A-A65D-4ECED638B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582C73BA-3313-454A-A65D-4ECED638B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582C73BA-3313-454A-A65D-4ECED638B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F84D5D-3C2C-4A7E-87AB-F68F46CB2262}
+	EndGlobalSection
+EndGlobal
